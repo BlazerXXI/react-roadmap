@@ -88,6 +88,14 @@ function App() {
           link="https://habr.com/ru/company/otus/blog/574428/"
           name="React Router Hooks: Изучение принципов их работы"
         />
+        <Component
+          link="https://ru.reactjs.org/docs/code-splitting.html"
+          name="Разделение кода"
+        />
+        <Component
+          link="https://redux.js.org/tutorials/essentials/part-1-overview-concepts"
+          name="Redux"
+        />
       </main>
     </div>
   );
