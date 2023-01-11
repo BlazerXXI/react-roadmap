@@ -45,7 +45,7 @@ function App() {
           name="useRef"
         />
         <Component
-          link="https://ru.reactjs.org/docs/hooks-reference.html#usememo"
+          link="https://beta.reactjs.org/reference/react/useMemo"
           name="useMemo"
         />
         <Component
